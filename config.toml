@@ -1,0 +1,33 @@
+baseurl = "/"
+languageCode = "en-us"
+theme = "terminal"
+paginate = 5
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "green"
+
+[languages]
+  [languages.en]
+    title = "Cyber Security Portfolio"
+    keywords = ""
+    copyright = ""
+    menuMore = "Show More"
+    readMore = "Read More"
+    readOtherPosts = "Read Other Posts"
+
+    [languages.en.params.logo]
+      logoText = "Cyber Security Portfolio"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "aboutme"
+        name = "About Me"
+        url = "/about-me"
+      [[languages.en.menu.main]]
+        identifier = "slo"
+        name = "Subject Learning Outcomes (SLO)"
+        url = "/subject-learning-outcomes"
