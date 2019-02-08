@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://pseudoptics.me/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
