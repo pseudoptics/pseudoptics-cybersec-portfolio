@@ -6,7 +6,7 @@ cover: dp2.jpg
 ---
 # Who Am I?
 ### Hello.
-My name is **Cameron Wang**, and I am currently a 2nd Year Student studying a Bachelor of Engineering (Honours) and Diploma in Engineering Practice degree at University of Technology Sydney (UTS).
+My name is **Cameron Wang** (Student ID: 13202320), and I am currently a 2nd Year Student studying a Bachelor of Engineering (Honours) and Diploma in Engineering Practice degree at University of Technology Sydney (UTS).
 As for my future career, I currently aspire to break into the field of IT and Engineering, working as a software engineer to develop reliable, efficient, secure and high-quality software systems.
 
 # My Current Level of Understanding on the Topic
