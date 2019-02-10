@@ -12,8 +12,7 @@ and consulting system owners for ways to mitigate those vulnerabilities.
 
 ## What Have We Achieved?
 
-For this first week, the groups were tasked with a research project, to develop and present a presentation on any topic of interest relating to security. For our group, we focused on the RSA SecurID system 
-breach in 2011, where the two factor authentication device SecurID was breached, and sensitive data was stolen.
+Breaking in to real world systems requires extensive knowledge of exploitable vulnerabilities, along with understanding the methodologies and approaches behind attacks. For this first week, the groups were tasked with a research project, to develop and present a presentation on any topic of interest relating to security. For our group, we focused on the RSA SecurID system breach in 2011, where the two factor authentication device SecurID was breached, and sensitive data was stolen.
 
 *Artefacts*:
 
@@ -33,8 +32,7 @@ Communication:
 
 ## What Have We Learned?
 
-Through the progress of this task, our group has been able to develop many skills, both relating to the topic of cyber security, as well as the ability to properly work as a team, communicate and research. We 
-were also able to develop our problem solving skills when we were forced to re-revaluate our project plan after one of our group members left the subject, requiring a change in planning and work distribution.
+Through the progress of this task, our group has been able to develop many skills, both relating to the topic of cyber security, as well as the ability to properly work as a team, communicate and research. We were also able to develop our problem solving skills when we were forced to re-revaluate our project plan after one of our group members left the subject, requiring a change in planning and work distribution.
 
 ---
 
