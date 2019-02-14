@@ -2,7 +2,7 @@
 title: "XSS Research Task"
 date: 2019-02-14T15:07:02+11:00
 author: Cameron Wang
-description: Research Task on XSS Vulnerabilities
+description: Research Task on XSS Vulnerabilities.
 ---
 # Stored XSS Vulnerability
 ## eBay Stored XSS Vulnerability (2017)
