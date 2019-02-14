@@ -2,7 +2,7 @@
 title: "Responsible Disclosure, Bug Bounties, and a Statement on Ethical Hacking and it's Importance to Stakeholders"
 date: 2019-02-11T23:56:50+11:00
 author: Cameron Wang
-description: Research Task on Ethical Hacking
+description: Research Task on Ethical Hacking.
 ---
 # Ethical Hacking
 
