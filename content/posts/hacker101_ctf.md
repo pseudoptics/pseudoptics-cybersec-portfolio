@@ -11,6 +11,6 @@ description: Write-Up of my Hacker101 CTF.
 
 ## Challenge: Micro-CMS v1
 - Flag 1
-	- On the "Testing" page, or when creating a new page, inject a XSS vulnerability into the page without using the **<script>** tag, or without using the word **script**, as it is blacklisted.
-	- Using the **<img>** or **<a>** tags can inject a XSS vulnerability.
+	- On the "Testing" page, or when creating a new page, inject a XSS vulnerability into the page without using the **\<script\>** tag, or without using the word **script**, as it is blacklisted.
+	- Using the **\<img\>** or **\<a\>** tags can inject a XSS vulnerability.
 	- View source code to find the flag in the tag.
