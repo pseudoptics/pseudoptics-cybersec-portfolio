@@ -42,7 +42,7 @@ Hopefully, as I progress through the development of my website and grow my under
 
 *Artefacts*:
 
-GitHub Repository: https://github.com/pseudoptics/pseudoptics.github.io
+GitHub Repository - https://github.com/pseudoptics/pseudoptics.github.io
 
 Netlify:
 
