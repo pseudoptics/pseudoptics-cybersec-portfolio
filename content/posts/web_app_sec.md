@@ -23,6 +23,7 @@ By reading and modifying the data sent in packets, such as the cookies, an attac
 Artefacts:
 
 CTFs / Wargames Write-Ups - https://drive.google.com/drive/u/0/folders/1rZB5U7wRwRWjFeR5LwEwaUf3xFxc1UuL
+
 - Hacker 101
 {{<image src="/img/hacker101_ctf.jpg" alt="hacker101 ctf" position="center" style="border-radius: 8px;">}}
 	
@@ -30,6 +31,7 @@ CTFs / Wargames Write-Ups - https://drive.google.com/drive/u/0/folders/1rZB5U7wR
 {{<image src="/img/overthewire_natas.jpg" alt="overthewire natas" position="center" style="border-radius: 8px;">}}
 	
 Web Vulnerability Notes - https://drive.google.com/drive/u/0/folders/1fYNsXDC-b_NBwSqMgLIOEPER_b6Ziwuz
+
 - [ShellterLabs] (https://shellterlabs.com/en/training/get-started/web-application-basics/)
 - [PentesterLab - Web for Pentester] (https://www.pentesterlab.com/exercises/web_for_pentester/course)
 	- Web Application and Web Technology Notes
