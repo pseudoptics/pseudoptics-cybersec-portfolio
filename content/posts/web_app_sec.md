@@ -32,7 +32,7 @@ Artefacts:
 		- Web Application and Web Technology Notes
 		- Web Vulnerabilities
 		
-- Presentation: https://drive.google.com/drive/u/0/folders/15X5fWCr9bx_ILcXTApbRmlDi1Bh2Dzop
+- Presentation: https://docs.google.com/presentation/d/1wgvqswZg_0gfyDWnNxlEX_JxTCT6O5vxRCsW5nnGsEs/edit?usp=sharing
 	
 To locate vulnerable websites, along with following under the guidelines of responsible disclosure, I used bug bounty services Bugcrowd and HackerOne. 
 Using what I had learnt from the resources, I tried locating any vulnerabilities, however none of the exploits worked. 
