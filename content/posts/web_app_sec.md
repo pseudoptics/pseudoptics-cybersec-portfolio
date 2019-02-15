@@ -43,4 +43,4 @@ It is important for businesses to understand the importance of security for thei
 Attackers can gain access to administrative privileges, or view and modify sensitive data stored in databases on the server. 
 Accounts can get hijacked and private information can become leaked, which leads to the reputation and trust of businesses and stakeholders damaged.
 
-With injection attacks such as XSS and SQL, using filtering to check and block certain keywords from being inputted, or sanitizing user input so any potential executable characters are not interpreted as executable code.
+With injection attacks such as XSS and SQL, using filtering to check and block certain keywords from being inputted, or sanitizing user input so any potential executable characters are not interpreted as executable code. Packets should not contain any fields which determine the privilege of the user, as those fields could be easily modified to escalate the privilege of the attacker.
