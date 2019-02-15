@@ -22,7 +22,7 @@ By reading and modifying the data sent in packets, such as the cookies, an attac
 
 Artefacts:
 
-- CTFs / Wargames: https://drive.google.com/drive/u/0/folders/1rZB5U7wRwRWjFeR5LwEwaUf3xFxc1UuL
+- CTFs / Wargames Write-Ups: https://drive.google.com/drive/u/0/folders/1rZB5U7wRwRWjFeR5LwEwaUf3xFxc1UuL
 	- Hacker 101
 	- OverTheWire Natas
 	
