@@ -51,5 +51,5 @@ description: Write-Up of my OverTheWire Natas wargame.
 ## natas9 -> natas10
 1. View Webpage Source Code
 2. In the Search Bar, Enter Unix Commands
-	- When using the passthru() function, inputs are sanitized, allowing input commands to be executed.
+	- When using the passthru() function, inputs are not properly sanitized, allowing input commands to be executed.
 3. Input: "/etc/natas_webpass/natas10"
