@@ -21,14 +21,17 @@ SQL Injection is also another common and severe flaw (#1 in the OWASP Top 10), w
 By reading and modifying the data sent in packets, such as the cookies, an attacker can gain access to privileges and data they would not normally allowed access to.
 
 Artefacts:
+
 - CTFs / Wargames: https://drive.google.com/drive/u/0/folders/1rZB5U7wRwRWjFeR5LwEwaUf3xFxc1UuL
 	- Hacker 101
 	- OverTheWire Natas
+	
 - Web Vulnerability Notes: https://drive.google.com/drive/u/0/folders/1fYNsXDC-b_NBwSqMgLIOEPER_b6Ziwuz
 	- ShellterLabs
 	- PentesterLab - Web for Pentester
 		- Web Application and Web Technology Notes
 		- Web Vulnerabilities
+		
 - Presentation: https://drive.google.com/drive/u/0/folders/15X5fWCr9bx_ILcXTApbRmlDi1Bh2Dzop
 	
 To locate vulnerable websites, along with following under the guidelines of responsible disclosure, I used bug bounty services Bugcrowd and HackerOne. 
