@@ -50,7 +50,7 @@ Web Vulnerability Notes - https://drive.google.com/drive/u/0/folders/1fYNsXDC-b_
 On Friday (15/02/2019), we were required to present out problem statement, our evidence of web vulnerabilities through practical web penetration of vulnerable web applications, and the effects of web security to businesses, with methods to mitigate issues, to the tutors
 and the class. According to Larry Zektser's feedback on my presentation, eye contact was good, but could definitely be improved, which can be acheived in future presentation with proper time management and preparation of the content.
 
-^Artefacts*:
+*Artefacts*:
 
 Presentation - https://drive.google.com/drive/u/0/folders/15X5fWCr9bx_ILcXTApbRmlDi1Bh2Dzop
 
