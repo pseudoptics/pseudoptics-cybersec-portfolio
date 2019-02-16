@@ -4,6 +4,11 @@ date: 2019-02-09T12:26:25+11:00
 description: My thoughts and reflections towards my experiences during the first week of the subject.
 author: Cameron Wang
 ---
+---
+
+**Sprint 1 Artefacts** - https://drive.google.com/drive/u/0/folders/1BbRNw0nebaNorDV12Xk1QIOFxp7_XCoM
+
+---
 # Sprint Reflection
 
 Due to my inexperience and lack of knowledge in the cyber security field, the first week of the summer studio has been an enriching learning 
