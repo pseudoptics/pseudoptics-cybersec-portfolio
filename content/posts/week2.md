@@ -90,3 +90,7 @@ and describing the steps I took to complete the task. The write-ups will continu
 
 Darsh Shah's Sprint 1 Feedback:
 {{<image src="/img/darsh_feedback.png" alt="Darsh Shah Feedback" position="center" style="border-radius: 8px;">}}
+
+---
+
+One of the biggest challenges I am still currently facing is working with my GitHub repository to store my portfolio contents. Currently, working on my posts locally is not an option as the git commands will not allow me to properly push my changes onto my repository. Any changes made needs to be edited directly onto the content stored in the repository, while any local changes needs to be dragged and dropped into the repository.
