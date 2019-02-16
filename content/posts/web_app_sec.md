@@ -73,3 +73,12 @@ Attackers can gain access to administrative privileges, or view and modify sensi
 Accounts can get hijacked and private information can become leaked, which leads to the reputation and trust of businesses and stakeholders damaged.
 
 With injection attacks such as XSS and SQL, using filtering to check and block certain keywords from being inputted, or sanitizing user input so any potential executable characters are not interpreted as executable code. To avoid packet manipulation, cookies in packets should not contain any fields relating to the privilege of the user.
+
+# Bibliography
+OWASP 2019, *XSS (Cross Site Scripting) Prevention Cheat Sheet*, viewed 11 Feburary 2019, <https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet#Why_Can.27t_I_Just_HTML_Entity_Encode_Untrusted_Data.3F>
+
+Wikipedia 2019, *Burp Suite*, viewed 16 Feburary 2019, <https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet#Why_Can.27t_I_Just_HTML_Entity_Encode_Untrusted_Data.3F>
+
+PentesterLab 2013, *Web for Pentester*, viewed 14 Feburary 2019, <https://www.pentesterlab.com/exercises/web_for_pentester/course>
+
+ShelltherLabs 2019, *Web Application Basics*, viewed 14 Febrary 2019, <https://shellterlabs.com/en/training/get-started/web-application-basics/>
