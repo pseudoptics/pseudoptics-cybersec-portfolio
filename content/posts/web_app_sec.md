@@ -77,7 +77,7 @@ With injection attacks such as XSS and SQL, using filtering to check and block c
 # Bibliography
 OWASP 2019, *XSS (Cross Site Scripting) Prevention Cheat Sheet*, viewed 11 Feburary 2019, <https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet#Why_Can.27t_I_Just_HTML_Entity_Encode_Untrusted_Data.3F>
 
-Wikipedia 2019, *Burp Suite*, viewed 16 Feburary 2019, <https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet#Why_Can.27t_I_Just_HTML_Entity_Encode_Untrusted_Data.3F>
+Wikipedia 2019, *Burp Suite*, viewed 16 Feburary 2019, <https://en.wikipedia.org/wiki/Burp_suite>
 
 PentesterLab 2013, *Web for Pentester*, viewed 14 Feburary 2019, <https://www.pentesterlab.com/exercises/web_for_pentester/course>
 
