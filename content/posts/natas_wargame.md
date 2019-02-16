@@ -53,3 +53,50 @@ description: Write-Up of my OverTheWire Natas wargame.
 2. In the Search Bar, Enter Unix Commands
 	- When using the passthru() function, inputs are not properly sanitized, allowing input commands to be executed.
 3. Input: "/etc/natas_webpass/natas10"
+
+## natas10 -> natas11
+1. View Webpage Source Code
+	- Certain Characters are Being Filtered
+2. In the Search Bar, Input: ".* /etc/natas_webpass/natas11 #"
+	- '\*' is the wildcard character, which locates any character
+	- '#' is the comment character, which converts all strings after the character into non-exeutable characters
+	- Utilizing the grep command, the command outputs all files and comments out 'dictionary.txt'
+
+## natas11 -> natas12
+Cookies are protected using XOR encryption
+1. View Webpage Source Code
+	- Read the source code to understand the encryption
+	- XOR encryption uses a key to encrypt
+2. Using Burp Suite, copy the encrypted cookie data
+3. Adjust the xor_encryption PHP function to obtain the encryption key
+	- Code:
+	
+"\<?  
+$orig_cookie = base64_decode('ClVLIh4ASCsCBE8lAxMacFMZV2hdVVotEhhUJQNVAmhSEV4sFxFeaAw');  
+function xor_encrypt($in) {  
+  $text = $in;  
+  $key = json_encode(array( "showpassword"=>"no", "bgcolor"=>"#ffffff"));  
+  $outText = '';  
+  // Iterate through each character  
+  for($i=0;$i<strlen($text);$i++) {  
+  $outText .= $text[$i] ^ $key[$i % strlen($key)];  
+  }  
+  return $outText;  
+}  
+print xor_encrypt($orig_cookie);
+?\>"
+
+4. Using the key: "qw8j", encrypt a new base64-encoded data cookie, with "showpassword"=>"yes"
+	- Code:
+
+function xor_encrypt() {  
+  $text = json_encode(array( "showpassword"=>"yes", "bgcolor"=>"#ffffff"));  
+  $key = "qw8J";    
+  $outText = '';  
+  // Iterate through each character  
+  for($i=0;$i<strlen($text);$i++) {  
+  $outText .= $text[$i] ^ $key[$i % strlen($key)];  
+  }  
+  return $outText;  
+}  
+print base64_encode(xor_encrypt());
