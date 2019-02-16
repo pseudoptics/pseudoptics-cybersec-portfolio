@@ -39,6 +39,7 @@ description: Write-Up of my OverTheWire Natas wargame.
 ## natas7 -> natas8
 1. View Page Source
 2. Enter Password Directory Location in the PHP in the URL
+
 	- index.php?page=/etc/natas_webpass/natas8
 
 ## natas8 -> natas9
@@ -51,13 +52,18 @@ description: Write-Up of my OverTheWire Natas wargame.
 ## natas9 -> natas10
 1. View Webpage Source Code
 2. In the Search Bar, Enter Unix Commands
+
 	- When using the passthru() function, inputs are not properly sanitized, allowing input commands to be executed.
+	
 3. Input: "/etc/natas_webpass/natas10"
 
 ## natas10 -> natas11
 1. View Webpage Source Code
+
 	- Certain Characters are Being Filtered
+	
 2. In the Search Bar, Input: ".* /etc/natas_webpass/natas11 #"
+
 	- '\*' is the wildcard character, which locates any character
 	- '#' is the comment character, which converts all strings after the character into non-exeutable characters
 	- Utilizing the grep command, the command outputs all files and comments out 'dictionary.txt'
@@ -65,10 +71,13 @@ description: Write-Up of my OverTheWire Natas wargame.
 ## natas11 -> natas12
 Cookies are protected using XOR encryption
 1. View Webpage Source Code
+
 	- Read the source code to understand the encryption
 	- XOR encryption uses a key to encrypt
+	
 2. Using Burp Suite, copy the encrypted cookie data
 3. Adjust the xor_encryption PHP function to obtain the encryption key
+
 	- Code:
 	
 "\<?  
@@ -87,6 +96,7 @@ print xor_encrypt($orig_cookie);
 ?\>"
 
 4. Using the key: "qw8j", encrypt a new base64-encoded data cookie, with "showpassword"=>"yes"
+
 	- Code:
 
 function xor_encrypt() {  
