@@ -66,7 +66,7 @@ discovering its functionality and importance to web penetration testing, whilst 
 
 ---
 
-On Monday (11/02/2019), Luke Fuehrer, Security Intern at Sense of Security, gae an in-depth presentation on the mindset of ethical hackers, teaching the attack vectors that should be looked for when penetrating web applications and provided detailed insight on what it means to be
+On Monday (11/02/2019), Luke Fuehrer, Security Intern at Sense of Security, gave an in-depth presentation on the mindset of ethical hackers, teaching the attack vectors that should be looked for when penetrating web applications and provided detailed insight on what it means to be
 an ethical hacker in the industry. Luke also went into great detail on background information relating to web systems and web penetration tools and exploitable vulnerabilities. Luke gave a second presentation on Wednesday (13/02/2019), focusing more towards the evolution and history
 of the Internet, web applications, and Cross Site Scripting (XSS). As someone who is still learning, new to the field of cyber security, Luke definitely provided great starting points on what tools and areas of web systems I should be studying, and more importantly, the mindset I must
 possess when penetration testing.
