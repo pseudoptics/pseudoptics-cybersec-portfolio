@@ -47,6 +47,7 @@ Cookie Manipulation
 
 ## natas8 -> natas9
 Cryptography
+
 1. View Webpage Source Code
 2. Convert encoded string: "3d3d516343746d4d6d6c315669563362" from Hexadecimal to ASCII
 3. Reverse ASCII String: "==QcCtmMml1ViV3b"
@@ -55,6 +56,7 @@ Cryptography
 
 ## natas9 -> natas10
 Unsanitized/Unfiltered Inputs
+
 1. View Webpage Source Code
 2. In the Search Bar, Enter Unix Commands
 
@@ -64,6 +66,7 @@ Unsanitized/Unfiltered Inputs
 
 ## natas10 -> natas11
 Bypassing Filters
+
 1. View Webpage Source Code
 
 	- Certain Characters are Being Filtered
@@ -76,7 +79,9 @@ Bypassing Filters
 
 ## natas11 -> natas12
 XOR Encryption
+
 Cookies are protected using XOR encryption
+
 1. View Webpage Source Code
 
 	- Read the source code to understand the encryption
@@ -124,6 +129,7 @@ print base64_encode(xor_encrypt());
 
 ## natas12 -> natas13
 [Unrestricted File Upload](https://www.owasp.org/index.php/Unrestricted_File_Upload)
+
 1. View Webpage Source Code
 
 	- PHP code does not check the file uploaded, only the size and creating the path and directory to store the file
@@ -143,7 +149,9 @@ print base64_encode(xor_encrypt());
 
 ## natas13 -> natas14
 Magic Numbers
+
 [List of File Signatures](https://en.wikipedia.org/wiki/List_of_file_signatures)
+
 1. View Webpage Source Code
 
 	- PHP now checks filetype through exif_imagetype() function
@@ -166,7 +174,9 @@ Magic Numbers
 
 ## natas14 -> natas15
 SQL Injection - Bypassing Login Screens
+
 [SQL Injection Cheat Sheet - Bypass Login](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/#ByPassingLoginScreens)
+
 1. View Webpage Source Code
 
 	- Website uses MySQL for Login
@@ -178,7 +188,9 @@ SQL Injection - Bypassing Login Screens
 	
 ## natas15 -> natas16
 Blind SQL Injection
+
 [SQL Injection Cheat Sheet - Blind SQL Injection](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/#BlindSQLInjections)
+
 1. View Webpage Source Code
 
 	- There is no password field for this query
