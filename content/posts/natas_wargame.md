@@ -127,6 +127,8 @@ function xor_encrypt() {
 print base64_encode(xor_encrypt());
 ~~~
 
+Walkthrough/Code Used: http://raidersec.blogspot.com/2012/10/overthewire-natas-wargame-level-11.html
+
 ## natas12 -> natas13
 [Unrestricted File Upload](https://www.owasp.org/index.php/Unrestricted_File_Upload)
 
@@ -146,6 +148,8 @@ print base64_encode(xor_encrypt());
 3. Upload PHP Script
 4. Using burp Suite, modify the packet so that the filename and type of the script is the PHP script
 5. Browse to the file URL using: "[filename].php?cmd=cat /etc/natas_webpass/natas13"
+
+Walkthrough/Code Used: http://raidersec.blogspot.com/2012/10/overthewire-natas-wargame-level-12.html
 
 ## natas13 -> natas14
 Magic Numbers
@@ -171,6 +175,8 @@ Magic Numbers
 3. Upload PHP Script
 4. Using burp Suite, modify the packet so that the filename and type of the script is the PHP script
 5. Browse to the file URL using: "[filename].php?cmd=cat /etc/natas_webpass/natas14"
+
+Walkthrough/Code Used: http://raidersec.blogspot.com/2012/10/overthewire-natas-wargame-level-13.html
 
 ## natas14 -> natas15
 SQL Injection - Bypassing Login Screens
@@ -223,3 +229,5 @@ for i in range(0,32):
             print(passwd)
             break
 ~~~
+
+Walkthrough/Code Used: https://www.abatchy.com/2016/11/natas-level-14-and-15
