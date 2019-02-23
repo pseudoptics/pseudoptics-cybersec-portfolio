@@ -32,7 +32,7 @@ Using the option `-sSV` returns the versions of the services that the machine is
 
 {{<image src="/img/pwnlab_nmap.PNG" alt="nmap" position="center" style="border-radius: 8px;">}}
 
-Using the command searchsploit [service], I can look through the Exploit-DB database to locate any exploits for the services currently running on the machine. However, it seems that there are no exploits that I
+Using the command `searchsploit [service]`, I can look through the Exploit-DB database to locate any exploits for the services currently running on the machine. However, it seems that there are no exploits that I
 can utilise. The MySQL exploits looked interesting, used to escalate privileges, however it only works locally. It may be useful at a later stage.
 
 {{<image src="/img/pwnlab_searchsploit.PNG" alt="searchsploit" position="center" style="border-radius: 8px;">}}
