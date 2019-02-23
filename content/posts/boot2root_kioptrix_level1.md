@@ -4,6 +4,7 @@ date: 2019-02-21T19:44:05+11:00
 author: Cameron Wang
 description: My Steps/Process of Gaining Root on the Kioptrix Level 1 Machine
 ---
+---
 
 'boot2root - Kioptrix Level 1' Notes - https://drive.google.com/open?id=1ELx9NS0ONeKRIN5NSrjgSSxfMo-Pl8VN
 
