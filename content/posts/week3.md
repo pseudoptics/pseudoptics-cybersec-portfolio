@@ -34,6 +34,8 @@ Kioptrix Level 1 Blog Post - https://pseudoptics.me/posts/boot2root_kioptrix_lev
 
 pwnlab_init Blog Post - https://pseudoptics.me/posts/boot2root_pwnlab_init/
 
+Password Crackers Blog Post - https://pseudoptics.me/posts/password_crackers/
+
 Password Cracking Tools Presentation Slides - https://drive.google.com/open?id=19pyZex1FxaI0cgyVpWVL-kwV0NOk2zfj
 
 Password Cracking Tools Presentation/Research Notes - https://drive.google.com/open?id=143EphJHPWsTkD6uwa90a5gieag-7jXR3
