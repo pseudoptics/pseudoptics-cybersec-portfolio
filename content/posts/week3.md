@@ -66,7 +66,7 @@ issue. Throughout the weekend, he had focused on his static site, and working th
 
 On Friday (22/02/2019), I spoke with Brendan Huynh, Corey Hall, and Harry Louskis, discussing about our progress on our work throughout the week. Corey Hall worked on the 'Bank' boot2root machine, performing
 enumeration on the machine through nmap and directory scans, but has currently not gained root. Harry Louskos worked through the Popcorn HackTheBox machine, and Brendan Huynh has been working through HackTheBox
-machines, but has been suffering from issues while setting up Virtual Machines through VMware. Virtual Machines no not properly connect to the network, bridged and NAT networking do not work as intended, and
+machines, but has been suffering from issues while setting up Virtual Machines through VMware. Virtual Machines are not properly connect to the network, bridged and NAT networking do not work as intended, and
 certain virtual machines do not contain the necessary files to properly run. I also face some of the issues that Brendan has been facing with virtual machines, however, currently no solution has been found or
 discussed.
 
