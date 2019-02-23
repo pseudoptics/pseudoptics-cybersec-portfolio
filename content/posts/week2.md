@@ -24,7 +24,7 @@ behind each vulnerability through readings and practical exercises, and the seve
 detailed and informative readings on web systems, web application and web vulnerabilities, along with providing practical exercises and challenges which applies the learning in a controlled practical setting. HackerOne's Hacker101 CTF and OverTheWire: Natas wargame
 helped reinforce my studies on web application penetration learnt from the readings by providing challenges in the form of games, tasking players to locate a flag or password to earn points or progress onto further levels using their understanding of security
 on intentionally vulnerable web applications. I had also tried applying the skills and knowledge gained throughout the week on bug bounties, testing vulnerable, real world web applications through Bugcrowd and HackerOne, however, I was unable to discover any
-issues. Despite failing to successfully penetrate any real world web application, the experience was still valuable, understanding that I must continue to research and study to further grow my skilla and knowledge.
+issues. Despite failing to successfully penetrate any real world web application, the experience was still valuable, understanding that I must continue to research and study to further grow my skills and knowledge.
 
 *Artefacts*:
 
