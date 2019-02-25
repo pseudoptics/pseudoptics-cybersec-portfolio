@@ -29,5 +29,5 @@ paginate = 5
         url = "/about-me"
       [[languages.en.menu.main]]
         identifier = "slo"
-        name = "Subject Learning Outcomes (SLO)"
+        name = "Subject Learning Objectives (SLO)"
         url = "/subject-learning-outcomes"
