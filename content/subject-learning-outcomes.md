@@ -1,9 +1,9 @@
 ---
-title: "Subject Learning Outcomes"
+title: "Subject Learning Objectives"
 date: 2019-02-08T00:43:20+11:00
 author: Cameron Wang
 ---
-# Subject Learning Outcomes in Detail
+# Subject Learning Objectives in Detail
 **The 5 Subject Learning Outcomes needed to be achieved throughout the course:**
 
 	1. Engage with stakeholders to identify a problem
