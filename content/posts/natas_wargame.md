@@ -159,7 +159,7 @@ Magic Numbers
 1. View Webpage Source Code
 
 	- PHP now checks filetype through exif_imagetype() function
-	- exif_imagetype() function checks fiel signature
+	- exif_imagetype() function checks file signature
 
 2. Using Python, create a PHP script which includes the JPEG File Signature/Magic Number
 
