@@ -17,18 +17,21 @@ description: Write-Up of my OverTheWire Natas wargame.
 
 ## natas3 -> natas4
 robots.txt
+
 1. View: /robots.txt
 2. Go To: /s3cr3ts
 3. View 'users.txt'
 
 ## natas4 -> natas5
 Packet Manipulation
+
 1. Use Burp Suite to intercept Packet
 2. Locate Referer in Packet
 3. Modify Referer To: http://natas5.natas.labs.overthewire.org/
 
 ## natas5 -> natas6
 Cookie Manipulation
+
 1. Use Burp Suite to intercept Packet
 2. Locate Cookie in Packet
 3. Modify loggedin=0 To: loggedin=1
