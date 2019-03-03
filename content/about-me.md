@@ -2,7 +2,7 @@
 title: "About Me"
 date: 2019-02-08T00:44:02+11:00
 author: Cameron Wang
-cover: dp2.jpg
+cover: dp4.jpg
 ---
 # Who Am I?
 ### Hello.
