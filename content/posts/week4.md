@@ -13,7 +13,7 @@ description: My thoughts and reflections towards my experiences during the fourt
 # Sprint Reflection
 
 The final week of the Summer Studio. It has been an intense, but insightful journey through the world of cyber security. The final week put all of our skills developed throughout the subject to the test;
-gaining root on an active Hack The Box machine, whilst also teaching the standard vulnenrability documentation by reporting our process using the given format.
+gaining root on an active Hack The Box machine, whilst also teaching the standard vulnerability documentation by reporting our process using the given format.
 
 ---
 
@@ -23,8 +23,8 @@ machine or challenge, making the active machines the perfect tests to demonstrat
 an account on their platform, which required me to receive an invitation code only obtainable by *hacking* their invitation process and generating an invitation code for myself. On Wednesday (27/02/2019), I was
 finally able to generate an invitation code and create an account on their platform, managing to complete the majority of the challenge without any assistance. I did, however, require a hint at one particular section
 to progress further with the challenge, but the help has taught me more about the workings of \<REDACTED> programming, and the utilization of the command line tool \<REDACTED>. Due to the Terms of Service of the platform,
-I am unabale to go into further detail on my experiences  in solving the invitation code generation. The active machine I chose to attack was the **Curling** machine, an easy difficulty challenge. Hacking is about the mindset, 
-being able to locate the attack vectors and exploit the vulerabilities to gain user and root privileges, and practicing through actively attacking machines helps develop my skills in analysing and problem solving.
+I am unable to go into further detail on my experiences  in solving the invitation code generation. The active machine I chose to attack was the **Curling** machine, an easy difficulty challenge. Hacking is about the mindset, 
+being able to locate the attack vectors and exploit the vulnerabilities to gain user and root privileges, and practicing through actively attacking machines helps develop my skills in analysing and problem solving.
 
 An important aspect of a security professional's work is reporting and documenting vulnerabilities, exploits and breaches. To practice and prepare for real-world security documentation, a template was provided, requiring a
 detailed explanation of the objective, process and the tools and exploits used to complete the objective. Using the template, I documented my process towards gaining root on the **Curling** Hack The Box machine akin to the levels
