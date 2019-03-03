@@ -11,7 +11,7 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Cyber Security Portfolio"
+    title = "Cyber Security Portfolio :: Blog Posts"
     keywords = ""
     copyright = ""
     menuMore = "Show More"
