@@ -22,7 +22,7 @@ machines, targeting active Hack The Box machines rather than standard boot2root 
 machine or challenge, making the active machines the perfect tests to demonstrate my skills and knowledge developed throughout the subject. Before I was able to work on active Hack The Box machines, I needed
 an account on their platform, which required me to receive an invitation code only obtainable by *hacking* their invitation process and generating an invitation code for myself. On Wednesday (27/02/2019), I was
 finally able to generate an invitation code and create an account on their platform, managing to complete the majority of the challenge without any assistance. I did, however, require a hint at one particular section
-to progress further with the challenge, but the help has taught me more about the workings of <REDACTED> programming, and the utilization of the command line tool <REDACTED>. Due to the Terms of Service of the platform,
+to progress further with the challenge, but the help has taught me more about the workings of \<REDACTED> programming, and the utilization of the command line tool \<REDACTED>. Due to the Terms of Service of the platform,
 I am unabale to go into further detail on my experiences  in solving the invitation code generation. The active machine I chose to attack was the **Curling** machine, an easy difficulty challenge. Hacking is about the mindset, 
 being able to locate the attack vectors and exploit the vulerabilities to gain user and root privileges, and practicing through actively attacking machines helps develop my skills in analysing and problem solving.
 
