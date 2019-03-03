@@ -22,7 +22,7 @@ author: Cameron Wang
 As stated in my introduction, I began the subject with very beginner and limited knowledge or practical experience in cyber security, beyond the few CTFs I had participated out of interest, and the preparation work that was provided to students
 before the subject began. My main goal I hoped to achieve by the end of the subject was a development in my skills and knowledge on the topic of cyber security, and the work and projects tasked to me throughout the four weeks of the summer studio 
 has definitely allowed me to reach my goal. My studies throughout the subject have deepened my knowledge and understanding of security concepts through the research and presentation tasks, taught me the methodologies of penetration testing through 
-the practical CTFs and vulnerable web applications and VMs, and an understanding of the industry throgh presentations from security professionals in the industry, with the development of my own personal skill sets, writing, presenting and leadership,
+the practical CTFs and vulnerable web applications and VMs, and an understanding of the industry through presentations from security professionals in the industry, with the development of my own personal skill sets, writing, presenting and leadership,
 through the constant and helpful feedback from my tutors.
 
 # Final Reflective Statement
@@ -32,8 +32,8 @@ through the constant and helpful feedback from my tutors.
 
 ---
 Working through the Cyber Security Summer Studio has been an intense experience. Learning, understanding and applying our knowledge of the concepts and methodologies of cyber security in a span of four weeks is a difficult and
-daunting task. However, it is definitely an experience I personally do not regret, as stressful as it was. I have always had an interest in the field of cyber security, wanting to possibly persue it as a career option. I conducted
-my own research, joined the UTS Cyber Security Society, and participated in Capture The Flag (CTFs) competitions to learn and develop my knowledge and skills, however, my time constraints from uni studies and personal life hasn't allowed 
+daunting task. However, it is definitely an experience I personally do not regret, as stressful as it was. I have always had an interest in the field of cyber security, wanting to possibly pursue it as a career option. I conducted
+my own research, joined the UTS Cyber Security Society, and participated in Capture The Flag (CTFs) competitions to learn and develop my knowledge and skills, however, my time constraints from Uni studies and personal life hasn't allowed 
 me to continue my hobby. What drew interest towards the summer studio was the hopes I could continue to grow my skills and knowledge without distractions. Beginning the subject with little to no experience in the cyber security field, 
 as I work through the research tasks, listen to security professionals from the industry discussing a range of topics on security, and applying my learnt skills in a practical environment, breaking into vulnerable web applications and virtual 
 machines, my knowledge on security topics has grown, and my skills have been developed.
@@ -52,7 +52,7 @@ Mindset is extremely important for a cyber security professional. Understanding 
 Luke Fuehrer, a security intern from Sense of Security, gave a presentation discussing the mindset of an ethical hacker, discussing in great detail on what it means to be an ethical hacker, and the attack vectors to look out for while penetration testing,
 including the tools and exploitable vulnerabilities. He presented a second time in the week, instead focusing more on the history of web applications and the Cross Site Scripting (XSS) vulnerability.
 
-It is important to understand the field of work that a person wishes to persue as a career. The cyber security industry encompasses multiple professions, and it's important to understand the roles that each play. For the third week, three members from
+It is important to understand the field of work that a person wishes to pursue as a career. The cyber security industry encompasses multiple professions, and it's important to understand the roles that each play. For the third week, three members from
 Deloitte's security team, Viren, Simon and Nathan, visited to present a detailed overview on the Cyber Security industry, specifically focusing on Red Teaming, professionals who test the security of an organisation by actively attacking their systems and
 locations. The team informed the class of Red Teams, how they differ from traditional penetration testers, and the types of tools and methodologies used when red teaming, using their own experiences on the job as examples of the work Red Teams perform.
 
@@ -79,14 +79,14 @@ Alongside security research tasks and presentations, through attacking purposefu
 
 With the World Wide Web being a popular and important resource in the modern age, stakeholders must ensure that websites and web applications are properly secured to protect the integrity and security of sensitive user data. Week 2 focused on practical
 Web Application Security, where alongside research on the field, I was tasked to demonstrate my research through practice against vulnerable web applications. Taking advantage of the multitude of free resources online, I developed my skills and 
-understanding of web application security, learning the many types of web vulnerabilities, the technical and detailed workings of each vulnerability through reading resources and practical exercises, and the severe reprocussions of these exploits if not properly
+understanding of web application security, learning the many types of web vulnerabilities, the technical and detailed workings of each vulnerability through reading resources and practical exercises, and the severe repercussions of these exploits if not properly
 considered and fixed. PentesterLab's Web for Pentester course, and ShellterLabs provide in-depth information and readings on web systems and their vulnerabilities, while providing controlled practical exercises and environments to apply my learning. OverTheWire Natas
 wargame and HackerOne's Hacker101 CTF are challenges that focus on applying web application security to locate flags or passwords to earn points or progress, helping reinforce my previous studies. I had also attempted Bug Bounties, testing my skills and studies on real
 world web applications, in-scope and with permission from the owners, however, I was unable to locate any issues.
 
-Stakeholders must ensure that their systems remain up-to-date and secured. Once an attacker gains root privileges on a vulnerable machine, they gain complete access and control of the machine. Week 3 focused on understanding the attack vectors, vulnernabilities and mindset
+Stakeholders must ensure that their systems remain up-to-date and secured. Once an attacker gains root privileges on a vulnerable machine, they gain complete access and control of the machine. Week 3 focused on understanding the attack vectors, vulnerabilities and mindset
 when attacking vulnerable machines, demonstrated through boot2root virtual machines. boot2root machines are purposefully vulnerable virtual machines designed for attackers to attempt to gain root. As I am still a beginner, the machines I focused on were leveled for beginners,
-allowing me to continue developing my skills through practice. The Kioptrix Level 1 machine, which I have managed to gain root privileges on, and the pwnlab_init machine, were the two manchines I worked through. Working through the boot2root exercises not only provided a lot 
+allowing me to continue developing my skills through practice. The Kioptrix Level 1 machine, which I have managed to gain root privileges on, and the pwnlab_init machine, were the two machines I worked through. Working through the boot2root exercises not only provided a lot 
 of experience and knowledge of the mindset and tools used in penetration testing machines, but understanding and networking virtual machines.
 
 As a secondary option to the boot2root machines, I was given permission by Shaun, the owner of apointb, to penetration test his web applications, which are real world web applications. I had attempted to penetrate his applications, scanning directories and performing XSS and SQL Injections,
@@ -121,9 +121,9 @@ I was tasked, as part of a group, to conduct research on a security topic of int
 sensitive data stolen. Conducting researching on major security attacks allowed me to develop an understanding of the technical details and working of exploits and methods that are utilised in attacks.
 
 In week 2, alongside practical demonstrations of web application vulnerabilities and exploits, I conducted research to help me understand these vulnerabilities and exploits in detail. PentesterLab's Web for Pentester and ShellterLab, aside from their practical environment to
-learn and test web application vulnerbailities through practice, provide long and detailed courses explaining web systems, web applications and web vulnerablities.
+learn and test web application vulnerabilities through practice, provide long and detailed courses explaining web systems, web applications and web vulnerabilities.
 
-It is important for a security professional to understand the inner workings of the tools. Alongside the boot2root challenges, week 3 also had me, in a group, conduct researach on a security tool or multiple tools in detail, to learn and understand more on their purpose, applications
+It is important for a security professional to understand the inner workings of the tools. Alongside the boot2root challenges, week 3 also had me, in a group, conduct research on a security tool or multiple tools in detail, to learn and understand more on their purpose, applications
 and how it functions in detail. My group decided to focus on Password Cracking tools, specifically looking into John The Ripper and Hashcat, teaching me more about passwords, how passwords are stored and encrypted, and how these tools break it at a technical level.
 
 ---
