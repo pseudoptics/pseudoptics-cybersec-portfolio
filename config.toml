@@ -11,7 +11,7 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Cyber Security Portfolio :: Blog Posts"
+    title = "Cyber Security Portfolio"
     keywords = ""
     copyright = ""
     menuMore = "Show More"
@@ -19,7 +19,7 @@ paginate = 5
     readOtherPosts = "Read Other Posts"
 
     [languages.en.params.logo]
-      logoText = "Cyber Security Portfolio"
+      logoText = "Cyber Security Portfolio :: Blog Posts"
       logoHomeLink = "/"
 
     [languages.en.menu]
