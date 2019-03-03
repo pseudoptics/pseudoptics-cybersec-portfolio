@@ -5,7 +5,7 @@ author: Cameron Wang
 ---
 ---
 
-**Artefects**:
+**Artefacts**:
 
 - Week 1 Artefacts - https://drive.google.com/drive/u/0/folders/1BbRNw0nebaNorDV12Xk1QIOFxp7_XCoM
 - Week 2 Artefacts - https://drive.google.com/drive/u/0/folders/19JR_LoG7ClhCgAbElzRs0Bgpxv2otcC6
