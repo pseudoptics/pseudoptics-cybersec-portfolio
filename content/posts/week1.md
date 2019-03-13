@@ -36,7 +36,7 @@ without requiring knowledge on web programming and database design and managemen
 into a portfolio for the subject, so as a means to understand websites, web applications and web services, my portfolio is presented through my website.
 
 My portfolio has been created using [Hugo](https://gohugo.io/), a static site generator written in Go, and themed using the *terminal* theme by author [panr](https://radoslawkoziel.pl/),
-with all web page content written using Markdown. The files are hosted in my [github repository](https://github.com/pseudoptics/pseudoptics.github.io) and is deployed using 
+with all web page content written using Markdown. The files are hosted in my [github repository](https://github.com/pseudoptics/pseudoptics-cybersec-portfolio) and is deployed using 
 Netlify.
 
 Although the process from learning to publishing has been a interesting and enjoyable experience, the development of my static website has been long and difficult.
