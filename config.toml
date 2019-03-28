@@ -30,7 +30,7 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "slo"
         name = "Subject Learning Outcomes (SLO)"
-        url = "/subject-learning-outcomes"
+        url = "/subject-learning-objectives"
 	[[languages.en.menu.main]]
         identifier = "final"
         name = "Conclusion / Final Reflection"
