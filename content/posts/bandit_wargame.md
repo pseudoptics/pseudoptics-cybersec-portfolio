@@ -1,6 +1,6 @@
 ---
 title: "Wargames - OverTheWire Bandit"
-date: 2019-02-15T22:41:32+11:00
+date: 2019-04-04T22:41:32+11:00
 author: Cameron Wang
 description: Write-Up of my OverTheWire Bandit wargame **Last Updated 4/04/2019**.
 ---
